@@ -2,122 +2,90 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+**Email:** morrissamuelw@gmail.com | **[LinkedIn](www.linkedin.com/in/samuel-morris-36ab102b5)**
 
 * * *
 
-### Here is an unordered list:
+# Education
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Master of Science in Supply Chain Analytics
 
-### And an ordered list:
+* Expected August 2027
+* California State University San Marcos
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Bachelor of Science in Business Administration
 
-### And a nested list:
+* Concentration in Global Supply Chain Management
+* Minor in Economics
+* Received May 2026
+* California State University San Marcos
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## Coursework
 
-### Small image
+| Course Name                                              | Course Number | Semester Taken | Grade       |
+|:---------------------------------------------------------|:--------------|:---------------|:------------|
+| Tools and Technologies for Analytics                     | OM 620        | Fall 2026      | In-progress |
+| Advanced Visual Analytics                                | OM 621        | Fall 2026      | In-progress |
+| Sustainable Operations and Supply Chain Management       | OM 631        | Fall 2026      | In-progress |
+| Enterprise Resource Planning and Supply Chain Technology | OM 633        | Fall 2026      | In-progress |
+| Supply Chain Management                                  | OM 428        | Fall 2025      | A           |
+| Advanced Business Analytics                              | OM 424        | Spring 2025    | A           |
+| Prescriptive Analytics                                   | OM 406        | Spring 2026    | A           |
+| Supply Chain Information Management                      | OM 443        | Spring 2025    | A           |
+| Warehousing and Distribution Management                  | OM 445        | Spring 2026    | A           |
+| Procurement Management                                   | OM 442        | Fall 2025      | A           |
+| Quality Management                                       | OM 446        | Fall 2025      | A           |
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* * *
 
-### Large image
+# Work Experience
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Instructional Student Assistant - CSUSM College of Business
 
+* August 2025 - May 2026
+* OM 302 - Foundations of Operations Management
+* Graded weekly assignments and quizzes
+* Provided private help and assistance for students
+* Assisted with proctoring midterm and final exams
 
-### Definition lists can be used with HTML syntax.
+## Director of Operations - CSUSM Global Supply Chain Management Society
 
+* January 2026 - May 2026
+* Developed a custom dashboard to track member attendance at meetings
+* Coordinated logistics and purchasing for weekly meetings
+* Supported executive board operations when requested
+
+## Director of Student Outreach - CSUSM Global Supply Chain Management Society
+
+* August 2025 - December 2025
+* Collaborated with faculty to deliver classroom presentations promoting the Supply Chain concentration and student organization
+* Increased awareness of academic and professional development opportunities among first and second-year students
+
+## Reverse Logistics Expert - Target
+
+* September 2019 - January 2024
+* Managed the "damaged items" process, processed 320+ quality assurance recalls, and returned 5,600+ excess inventory units valued at $100,000+ to distribution center
+* Maintained detailed receiving and transportation records
+* Trained team members and management on backroom processes
+* Recognized for reliability and contribution to corporate initiatives, including the Zero Waste program
+
+* * *
+
+# Relevant Skills
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Visual Basic for Applications (VBA)</dt>
+<dd>Advanced Business Analytics</dd>
+<dt>Supply Chain Network Design</dt>
+<dd>Supply Chain Management</dd>
+<dd>Prescriptive Analytics</dd>
+<dt>SAP</dt>
+<dd>Supply Chain Information Management</dd>
+<dd>NetSuite</dd>
+<dt>Supply Chain Information Management</dt>
+<dt>Excel Solver</dt>
+<dd>Advanced Business Analytics</dd>
+<dd>Supply Chain Management</dd>
+<dd>Prescriptive Analytics</dd>
+<dt>Crystal Ball</dt>
+<dd>Prescriptive Analytics</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
