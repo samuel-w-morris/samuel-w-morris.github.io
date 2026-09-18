@@ -4,23 +4,21 @@ layout: default
 
 **Email:** morrissamuelw@gmail.com | **[LinkedIn](www.linkedin.com/in/samuel-morris-36ab102b5)**
 
-* * *
-
 # Education
 
-## Master of Science in Supply Chain Analytics
+### Master of Science in Supply Chain Analytics
 
 * Expected August 2027
 * California State University San Marcos
 
-## Bachelor of Science in Business Administration
+### Bachelor of Science in Business Administration
 
 * Concentration in Global Supply Chain Management
 * Minor in Economics
 * Received May 2026
 * California State University San Marcos
 
-## Coursework
+### Coursework
 
 | Course Name                                              | Course Number | Semester Taken | Grade       |
 |:---------------------------------------------------------|:--------------|:---------------|:------------|
@@ -40,7 +38,7 @@ layout: default
 
 # Work Experience
 
-## Instructional Student Assistant - CSUSM College of Business
+### Instructional Student Assistant - CSUSM College of Business
 
 * August 2025 - May 2026
 * OM 302 - Foundations of Operations Management
@@ -48,20 +46,20 @@ layout: default
 * Provided private help and assistance for students
 * Assisted with proctoring midterm and final exams
 
-## Director of Operations - CSUSM Global Supply Chain Management Society
+### Director of Operations - CSUSM Global Supply Chain Management Society
 
 * January 2026 - May 2026
 * Developed a custom dashboard to track member attendance at meetings
 * Coordinated logistics and purchasing for weekly meetings
 * Supported executive board operations when requested
 
-## Director of Student Outreach - CSUSM Global Supply Chain Management Society
+### Director of Student Outreach - CSUSM Global Supply Chain Management Society
 
 * August 2025 - December 2025
 * Collaborated with faculty to deliver classroom presentations promoting the Supply Chain concentration and student organization
 * Increased awareness of academic and professional development opportunities among first and second-year students
 
-## Reverse Logistics Expert - Target
+### Reverse Logistics Expert - Target
 
 * September 2019 - January 2024
 * Managed the "damaged items" process, processed 320+ quality assurance recalls, and returned 5,600+ excess inventory units valued at $100,000+ to distribution center
@@ -80,8 +78,8 @@ layout: default
 <dd>Prescriptive Analytics</dd>
 <dt>SAP</dt>
 <dd>Supply Chain Information Management</dd>
-<dd>NetSuite</dd>
-<dt>Supply Chain Information Management</dt>
+<dt>NetSuite</dt>
+<dd>Supply Chain Information Management</dd>
 <dt>Excel Solver</dt>
 <dd>Advanced Business Analytics</dd>
 <dd>Supply Chain Management</dd>
